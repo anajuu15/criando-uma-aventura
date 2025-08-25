@@ -9,8 +9,16 @@ body {
     margin: 0;
 }
 
-button{
+button {
     background-color: rgb(195, 54, 54);
     color: white;
     font-family: "Montagu Slab", serif; 
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    
 }
