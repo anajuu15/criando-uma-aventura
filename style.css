@@ -3,4 +3,6 @@ body {
     color: white;
     font-family: "Montagu Slab", serif;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
